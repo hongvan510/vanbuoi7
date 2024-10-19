@@ -3,3 +3,4 @@ user2 update
 =======
 user1 update
 >>>>>>> 4e5c0f255609e49877fbaeaf5632a9cd572c9be9
+user2 update
